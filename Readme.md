@@ -2,7 +2,7 @@
 
 If you wish, you can open this tutorial in Cloud Shell:
 
-[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https%3A%2F%2Fgithub.com%2Fsh3lld00m%2Fskaffold-sample.git&page=editor&working_dir=skaffold-sample&tutorial=Readme.md)
+[![Open in Cloud Shell](http://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https%3A%2F%2Fgithub.com%2Fsh3lld00m%2Fskaffold-sample.git&page=editor&tutorial=Readme.md)
 
 
 ## Installation and cluster creation
